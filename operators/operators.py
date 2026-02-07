@@ -1,0 +1,10 @@
+print(103+5)
+print(100-5)
+print(10*5)
+print(100/5)
+print(10%3)
+print(10//3)
+print(2**3)
+sum1=55+45
+sum2=25+45
+print(sum1+sum2)
